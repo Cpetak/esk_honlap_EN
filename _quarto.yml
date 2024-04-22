@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Csenge + Lapo"
+  navbar:
+    background: transparent
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Indirizzo
+        href: location.qmd
+      - text: Info
+        href: info.qmd
+      - text: RSVP
+        href: rsvp_it.qmd
+
+from: markdown+emoji
+
+format:
+  html:
+    theme: 
+    - cosmo
+    - color.scss
+
+
+

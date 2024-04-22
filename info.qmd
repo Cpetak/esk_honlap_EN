@@ -4,24 +4,22 @@ format: html
 editor: visual
 ---
 
-## Vestiti
+## Attire
 
-Preferibilmente blu. Ma se non hai un vestito blu che vorresti indossare, va bene tutto ciò che non è bianco o rosso :).
+Preferably blue. But if you don't have a blue dress you'd like to wear, anything that isn't white or red will do :).
 
 ![](images/blue_ring.jpg){width="300" fig-align="center"}
 
-## Alloggio
+## Accomodation
 
-Accanto a Csillagkert c'è un hotel chiamato: [Petnehazy-clubhotel](https://petnehazy-clubhotel.hu/en).
-Essendo molto vicino a Csillagkert e' conveniente per chi si vuole trattenere solo lo stretto necessario.
+Next to Csillagkert there is a hotel called [Petnehazy-clubhotel](https://petnehazy-clubhotel.hu/en). Being very close to Csillagkert it is convenient for those who want to stay only for one or two nights.
 
 ![](images/petnehazi_club.jpeg){width="600" fig-align="center"}
 
-Alternativamente, se pensi di trattenerti qualche giorno suggeriamo di cercare un alloggio nel centro cittá e sfruttare il servizio di navetta che sará disponible il giorno della cerimonia. 
-
 ![](images/szell_map.png){width="600" fig-align="center"}
 
+Alternatively, if you plan to stay a few days we suggest looking for accommodation in the city center and taking advantage of the shuttle service which will be available on the day of the ceremony.
 
-Lavori in corso...
+Work in progress...
 
 ![](images/lavori.svg){width="300" fig-align="center"}

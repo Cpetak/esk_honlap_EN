@@ -9,7 +9,7 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: Indirizzo
+      - text: Address
         href: location.qmd
       - text: Info
         href: info.qmd

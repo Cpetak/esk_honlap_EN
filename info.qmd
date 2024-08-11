@@ -1,5 +1,5 @@
 ---
-title: "Info"
+title: "Wedding Info"
 format: html
 editor: visual
 ---
@@ -10,6 +10,10 @@ Preferably blue. But if you don't have a blue dress you'd like to wear, anything
 
 ![](images/blue_ring.jpg){width="300" fig-align="center"}
 
+## Schedule
+
+4:30 PM - Start
+
 ## Accomodation
 
 Next to Csillagkert there is a hotel called [Petnehazy-clubhotel](https://petnehazy-clubhotel.hu/en). Being very close to Csillagkert it is convenient for those who want to stay only for one or two nights.
@@ -18,8 +22,4 @@ Next to Csillagkert there is a hotel called [Petnehazy-clubhotel](https://petneh
 
 ![](images/szell_map.png){width="600" fig-align="center"}
 
-Alternatively, if you plan to stay a few days we suggest looking for accommodation in the city center and taking advantage of the shuttle service which will be available on the day of the ceremony.
-
-Work in progress...
-
-![](images/lavori.svg){width="300" fig-align="center"}
+Alternatively, if you plan to stay a few days we suggest looking for accommodation in the city center and taking a taxi on the day of the wedding.

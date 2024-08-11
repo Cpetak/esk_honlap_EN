@@ -11,8 +11,10 @@ website:
         href: index.qmd
       - text: Address
         href: location.qmd
-      - text: Info
+      - text: Wedding Info
         href: info.qmd
+      - text: Budapest Travel Info
+        href: travel.qmd
       - text: RSVP
         href: rsvp_it.qmd
 
